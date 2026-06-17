@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm n0namedeveloper 👋
 
-<!--
-**n0namedeveloper/n0namedeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python Developer | AI & Automation Engineer**
 
-Here are some ideas to get you started:
+I build AI-powered tools, automation pipelines, and backend systems. Passionate about integrating LLMs into real workflows that actually save time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Python · JavaScript · SQL · C/C++
+
+**Backend:** FastAPI · REST APIs · WebSockets
+
+**AI / LLM:** Pydantic-AI · Gemini API · OpenAI · Perplexity API · LangChain
+
+**Automation:** n8n · Telegram Bots · Webhook integrations
+
+**Infrastructure:** Docker · DigitalOcean · GitHub Actions
+
+**Data:** PostgreSQL · SQLite · Pandas
+
+---
+
+## 🚀 Featured Projects
+
+### [Hr-helper](https://github.com/n0namedeveloper/Hr-helper)
+AI-powered HR assistant that processes 500+ job applications per week. Built with Pydantic-AI, Perplexity API, Streamlit and WeasyPrint for automated PDF report generation.
+
+### [AI Workflow Automation](https://github.com/n0namedeveloper/ai-workflow-automation)
+Microservices architecture (FastAPI + Gemini API + n8n + React dashboard) for end-to-end AI-driven process automation. Achieves <200ms response time with <1% message drop rate.
+
+### [IoT Telegram Bot](https://github.com/n0namedeveloper/Iot-Telegram-bot)
+Real-time IoT monitoring system on Raspberry Pico W with n8n automation and Telegram bot interface for remote control and alerts.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=n0namedeveloper&show_icons=true&theme=dark&hide_border=true)
+
+---
+
+## 📫 Contact
+
+- **LinkedIn:** [linkedin.com/in/n0namedeveloper](https://linkedin.com/in/n0namedeveloper)
+- **Email:** available on request
+
+---
+
+*Open to internships and junior developer roles — AI, backend, automation.*
