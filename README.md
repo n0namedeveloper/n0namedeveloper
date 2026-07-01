@@ -1,6 +1,6 @@
 # Hi, I'm n0namedeveloper 👋
 
-**Python Developer | AI & Automation Engineer**
+**Python Backend & AI Automation Engineer | BS Computer Science, TUKE 2026**
 
 I build AI-powered tools, automation pipelines, and backend systems. Passionate about integrating LLMs into real workflows that actually save time.
 
@@ -12,7 +12,7 @@ I build AI-powered tools, automation pipelines, and backend systems. Passionate 
 
 **Backend:** FastAPI · REST APIs · WebSockets
 
-**AI / LLM:** Pydantic-AI · Gemini API · OpenAI · Perplexity API · LangChain
+**AI / LLM:** Pydantic-AI · Gemini API · OpenAI · Perplexity API · RAG pipelines
 
 **Automation:** n8n · Telegram Bots · Webhook integrations
 
@@ -25,7 +25,7 @@ I build AI-powered tools, automation pipelines, and backend systems. Passionate 
 ## 🚀 Featured Projects
 
 ### [Hr-helper](https://github.com/n0namedeveloper/Hr-helper)
-AI-powered HR assistant that processes 500+ job applications per week. Built with Pydantic-AI, Perplexity API, Streamlit and WeasyPrint for automated PDF report generation.
+End-to-end resume optimization tool with multi-stage ATS validation (length, keyword, credibility) and anti-hallucination filters. Built with Pydantic-AI, Perplexity API, Streamlit and WeasyPrint.
 
 ### [AI Workflow Automation](https://github.com/n0namedeveloper/ai-workflow-automation)
 Microservices architecture (FastAPI + Gemini API + n8n + React dashboard) for end-to-end AI-driven process automation. Achieves <200ms response time with <1% message drop rate.
