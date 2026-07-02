@@ -37,11 +37,6 @@ Real-time IoT monitoring system on Raspberry Pico W with n8n automation and Tele
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=n0namedeveloper&show_icons=true&theme=dark&hide_border=true)
-
----
 
 ## 📫 Contact
 
