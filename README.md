@@ -24,7 +24,7 @@ I build AI-powered tools, automation pipelines, and backend systems. Passionate 
 
 ## 🚀 Featured Projects
 ### [DeepRabbit](https://github.com/n0namedeveloper/DeepRabbit)
-A strong Github Action based tool for a code analyzing. Detects anomalies,bugs,weaknesses with suggestions.
+A robust GitHub Action for automated code analysis. Detects bugs, anomalies, and vulnerabilities while providing actionable fix suggestions.
 
 ### [Hr-helper](https://github.com/n0namedeveloper/Hr-helper)
 End-to-end resume optimization tool with multi-stage ATS validation (length, keyword, credibility) and anti-hallucination filters. Built with Pydantic-AI, Perplexity API, Streamlit and WeasyPrint.
