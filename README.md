@@ -23,7 +23,7 @@ I build AI-powered tools, automation pipelines, and backend systems. Passionate 
 ---
 
 ## 🚀 Featured Projects
-###[DeepRabbit](https://github.com/n0namedeveloper/DeepRabbit)
+### [DeepRabbit](https://github.com/n0namedeveloper/DeepRabbit)
 A strong Github Action based tool for a code analyzing. Detects anomalies,bugs,weaknesses with suggestions.
 
 ### [Hr-helper](https://github.com/n0namedeveloper/Hr-helper)
