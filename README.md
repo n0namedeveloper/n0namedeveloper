@@ -42,7 +42,7 @@ Real-time IoT monitoring system on Raspberry Pico W with n8n automation and Tele
 
 ## 📫 Contact
 
-- **LinkedIn:** [linkedin.com/in/n0namedeveloper](https://linkedin.com/in/n0namedeveloper)
+- **LinkedIn:** [linkedin.com/in/artsiom-beniash](https://www.linkedin.com/in/artsiom-beniash/)
 - **Email:** available on request
 
 ---
