@@ -36,7 +36,9 @@ Microservices architecture (FastAPI + Gemini API + n8n + React dashboard) for en
 Real-time IoT monitoring system on Raspberry Pico W with n8n automation and Telegram bot interface for remote control and alerts.
 
 ---
+## 📊 GitHub Stats
 
+![GitHub Stats](./profile/stats.svg)
 
 ## 📫 Contact
 
