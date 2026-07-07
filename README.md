@@ -26,6 +26,9 @@ I build AI-powered tools, automation pipelines, and backend systems. Passionate 
 ### [DeepRabbit](https://github.com/n0namedeveloper/DeepRabbit)
 A robust GitHub Action for automated code analysis. Detects bugs, anomalies, and vulnerabilities while providing actionable fix suggestions.
 
+### [localRAG](https://github.com/n0namedeveloper/localRAG)
+А code‑aware RAG assistant that lets you chat with GitHub repositories using natural language and get precise answers with source code references.
+
 ### [Hr-helper](https://github.com/n0namedeveloper/Hr-helper)
 End-to-end resume optimization tool with multi-stage ATS validation (length, keyword, credibility) and anti-hallucination filters. Built with Pydantic-AI, Perplexity API, Streamlit and WeasyPrint.
 
