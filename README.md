@@ -3,7 +3,8 @@
 **Python Backend & AI Automation Engineer | BS Computer Science, TUKE 2026**
 
 I build AI-powered tools, automation pipelines, and backend systems. Passionate about integrating LLMs into real workflows that actually save time.
-
+---
+My site: https://n0namedeveloper.github.io/
 ---
 
 ## 🛠 Tech Stack
