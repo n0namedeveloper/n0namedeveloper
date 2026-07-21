@@ -23,6 +23,9 @@ I build AI-powered tools, automation pipelines, and backend systems. Passionate 
 ---
 
 ## 🚀 Featured Projects
+### [Competity](https://github.com/n0namedeveloper/Competity)
+ An automated competitive intelligence platform.
+
 ### [DeepRabbit](https://github.com/n0namedeveloper/DeepRabbit)
 A robust GitHub Action for automated code analysis. Detects bugs, anomalies, and vulnerabilities while providing actionable fix suggestions.
 
