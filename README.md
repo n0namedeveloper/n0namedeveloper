@@ -30,7 +30,7 @@ My site: https://n0namedeveloper.github.io/
 ### [DeepRabbit](https://github.com/n0namedeveloper/DeepRabbit)
 A robust GitHub Action for automated code analysis. Detects bugs, anomalies, and vulnerabilities while providing actionable fix suggestions.
 
-### [localRAG](https://github.com/n0namedeveloper/localRAG)
+### [CodeRAG](https://github.com/n0namedeveloper/localRAG)
 А code‑aware RAG assistant that lets you chat with GitHub repositories using natural language and get precise answers with source code references.
 
 ### [Hr-helper](https://github.com/n0namedeveloper/Hr-helper)
