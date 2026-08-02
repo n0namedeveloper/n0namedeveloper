@@ -32,7 +32,7 @@ Enterprise-grade Multi-Agent Research System. Coordinates a swarm of specialized
 **Collaborative Project.** Asynchronous Telegram bot with a microservices architecture. Features classic group management (moderation, warnings) and an AI persona that passively listens to chat context and probabilistically replies in character via a dedicated LLM engine. Built with Python, python-telegram-bot, Tortoise ORM, and PostgreSQL.
 
 ### [Competity](https://github.com/n0namedeveloper/Competity)
- An automated competitive intelligence platform.
+Automated competitive intelligence platform. Autonomously monitors competitors across the web (GitHub, Product Hunt, HackerNews, Reddit, and websites), analyzes data using DeepSeek V4 AI to extract actionable strategic insights, and delivers weekly reports via a premium web dashboard and Telegram. Built with FastAPI, PostgreSQL, Playwright, and React.
 
 ### [DeepRabbit](https://github.com/n0namedeveloper/DeepRabbit)
 A robust GitHub Action for automated code analysis. Detects bugs, anomalies, and vulnerabilities while providing actionable fix suggestions.
