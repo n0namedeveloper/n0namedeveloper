@@ -24,6 +24,13 @@ My site: https://n0namedeveloper.github.io/
 ---
 
 ## 🚀 Featured Projects
+
+### [Searchie](https://github.com/n0namedeveloper/Searchie)
+Enterprise-grade Multi-Agent Research System. Coordinates a swarm of specialized AI agents to autonomously research, extract, synthesize, and fact-check data from live web sources. Built with FastAPI, Pydantic-AI, Server-Sent Events (SSE), and React.
+
+### [Jan Diddy](https://github.com/n0namedeveloper/jan-diddy)
+**Collaborative Project.** Asynchronous Telegram bot with a microservices architecture. Features classic group management (moderation, warnings) and an AI persona that passively listens to chat context and probabilistically replies in character via a dedicated LLM engine. Built with Python, python-telegram-bot, Tortoise ORM, and PostgreSQL.
+
 ### [Competity](https://github.com/n0namedeveloper/Competity)
  An automated competitive intelligence platform.
 
